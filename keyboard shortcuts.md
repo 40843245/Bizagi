@@ -4,4 +4,4 @@
 
 | keyboard shortcuts | description |
 | --------------------- | ------------- |
-| | | 
+| `ctrl`+`s` | `save file` | 
