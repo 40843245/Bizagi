@@ -4,4 +4,4 @@
 
 | keyboard shortcuts | description |
 ----------------------------------
-
+| | | 
